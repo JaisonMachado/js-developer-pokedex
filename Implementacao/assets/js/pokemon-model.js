@@ -9,8 +9,9 @@ class Pokemon {
     category;
     abilities=[];
     ability;
-    /*stats =[];
+    stats =[];
     stat;
-    base_stat;*/
+    base_stat;
+    base_stats=[]
     photo;
 }
